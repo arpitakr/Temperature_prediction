@@ -1,1 +1,12 @@
 
+![Temperature_throughout_timeline](https://github.com/arpitakr/Temperature_prediction/assets/127115947/f727900b-e044-4397-9b61-1f876b434134)
+![evaluation_cluster](https://github.com/arpitakr/Temperature_prediction/assets/127115947/62f0c337-9866-40c7-aa43-7c04644949af)
+![forecasted_temp](https://github.com/arpitakr/Temperature_prediction/assets/127115947/456030ab-2b59-4636-8d35-a1bc3d5b29e9)
+![frequency_chart](https://github.com/arpitakr/Temperature_prediction/assets/127115947/d452206b-977a-47c2-bd04-6ed21352ed04)
+![Median_monthly_temp](https://github.com/arpitakr/Temperature_prediction/assets/127115947/50bbdfb1-4e75-4d0e-b6cd-5ca053727e0a)
+![monthly_temp](https://github.com/arpitakr/Temperature_prediction/assets/127115947/3a28211e-b3f2-404c-a34e-4830598e0961)
+![plot](https://github.com/arpitakr/Temperature_prediction/assets/127115947/2cb7441c-5449-43ed-abcf-1f2a1c2fb04f)
+![seasonal_analysis](https://github.com/arpitakr/Temperature_prediction/assets/127115947/ed23f796-f130-4cdc-9909-d5042811ea87)
+![temp_cluster](https://github.com/arpitakr/Temperature_prediction/assets/127115947/c0782e62-ecf1-4c41-8f68-ccdadb54596e)
+![trendline](https://github.com/arpitakr/Temperature_prediction/assets/127115947/ce0793fd-0e4d-4f03-bb09-812054b46f22)
+![yeary_mean_temp](https://github.com/arpitakr/Temperature_prediction/assets/127115947/0b840837-e172-4611-9ef6-60944912d9f7)
